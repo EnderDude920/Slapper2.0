@@ -1,1 +1,2 @@
-# Slapper2.0
+# Slapper
+Slapper - An NPC plugin for PocketMine
